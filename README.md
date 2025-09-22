@@ -1,12 +1,13 @@
 # 🚀 Add Binary Strings
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/add-binary/python-app.yml?branch=main)](https://github.com/your-username/add-binary/actions)
-[![License](https://img.shields.io/github/license/your-username/add-binary)](LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/MuhammadQasim111/Add-binary-repo/python-app.yml?branch=main)](https://github.com/MuhammadQasim111/Add-binary-repo/actions)
+[![License](https://img.shields.io/github/license/MuhammadQasim111/Add-binary-repo)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
-[![Issues](https://img.shields.io/github/issues/your-username/add-binary)](https://github.com/your-username/add-binary/issues)
-[![Stars](https://img.shields.io/github/stars/your-username/add-binary?style=social)](https://github.com/your-username/add-binary/stargazers)
+[![Issues](https://img.shields.io/github/issues/MuhammadQasim111/Add-binary-repo)](https://github.com/MuhammadQasim111/Add-binary-repo/issues)
+[![Stars](https://img.shields.io/github/stars/MuhammadQasim111/Add-binary-repo?style=social)](https://github.com/MuhammadQasim111/Add-binary-repo/stargazers)
 
 A simple and efficient Python function to **add two binary strings** and return their sum as a binary string. 🔢
+
 
 ---
 
